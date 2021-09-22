@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kelllyy1
-- 👀 I’m love dogs and chocolate (even though the two shouldn't mix)
+- 👀 I love dogs and chocolate (even though the two shouldn't mix)
 - 🌱 I’m currently learning python3
 - 💞️ I’m looking to collaborate on beginner level python projects [and more complex ones as my experience grows :) ]
 - 📫 How to reach me: through github
