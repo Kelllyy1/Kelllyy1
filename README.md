@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @Kelllyy1
-- 👀 I love dogs and chocolate (even though the two shouldn't mix)
-- 🌱 I’m currently learning python3
-- 💞️ I’m looking to collaborate on beginner level python projects [and more complex ones as my experience grows :) ]
-- 📫 How to reach me: through github
+<h1>Hi, I'm Krystal! <br/><a href="https://github.com/Kelllyy1/Latest-Project">Latest Project</a></h1>
 
-<!---
-#Kelllyy1/Kelllyy1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-#You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Project 1</b>
+<!--
+  - Description
+- <b>Project 2</b>
+  - Description</b></i>
+  -->
+
+<h2> :page_with_curl: Certifications:</h2>
+
+- <b>GIAC</b>
+
+ <!--
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- <b>Project 1</b>
+  - Description
+- <b>Project 2</b>
+  - Description</b></i>
+  -->
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="Krystal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: (https://www.linkedin.com/in/krystal-kelly-182a832b3/)
+
+<!--
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
