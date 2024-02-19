@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Project 1</b>
-<!--
+- <b>Project 1</b> [ Will be on Security Compliance]
+  
   - Description
-- <b>Project 2</b>
+- <b>Project 2</b> [ Will be on Automation]
   - Description</b></i>
-  -->
+    I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
 
 <h2> :page_with_curl: Certifications:</h2>
 
