@@ -7,6 +7,7 @@
     
 - <b>Project 2</b> [Will be on Automation]
   - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
+  - Python Scripting
 
 <h2> :page_with_curl: Certifications:</h2>
 
