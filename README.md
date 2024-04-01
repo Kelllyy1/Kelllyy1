@@ -1,10 +1,12 @@
 <h1>Hi, I'm Krystal!</h1>
-<h2><br/><a href="https://github.com/Kelllyy1/Latest-Project">Latest Project</a></h2>
+<h2><br/><a href="https://github.com/Kelllyy1/Stock-Analysis">Latest Project</a></h2>
 <h2>👨‍💻 Personal Projects:</h2>
 
+<!--
 - <b>Software Develoment</b> [Will be on Security Compliance]
   - I don't know yet how I will implement this project
   - May be a research project/blog
+  -->
     
 - <b>Automation</b> [APIs & Web-Scraping]
   - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
