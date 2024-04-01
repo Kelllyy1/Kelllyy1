@@ -1,6 +1,5 @@
 <h1>Hi, I'm Krystal!</h1>
 <h2><br/><a href="https://github.com/Kelllyy1/Latest-Project">Latest Project</a></h2>
-
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Software Develoment</b> [Will be on Security Compliance]
