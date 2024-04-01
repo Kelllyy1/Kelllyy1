@@ -4,10 +4,14 @@
 
 - <b>Software Develoment</b> [Will be on Security Compliance]
   - I don't know yet how I will implement this project
+  - May be a research project/blog
     
 - <b>Automation</b> [APIs & Web-Scraping]
   - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
   - Python Scripting
+    - Stock Price analysis using yfinance in Python
+  - Bash Scripting
+    - <a href="https://github.com/Kelllyy1/Scheduling A Job in Linux">Latest Project</a></h1>
 
  - <b>Cyber</b> [Experimenting with VyOs]
   - </b></i>I will be experimenting with VyOs in Linux.
