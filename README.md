@@ -1,11 +1,11 @@
 <h1>Hi, I'm Krystal! <br/><a href="https://github.com/Kelllyy1/Latest-Project">Latest Project</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
-- <b>Project 1</b> [Will be on Security Compliance]
+- <b>Software Develoment</b> [Will be on Security Compliance]
   - I don't know yet how I will implement this project
     
-- <b>Project 2</b> [Will be on Automation]
+- <b>Automation</b> [Will be on Automation]
   - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
   - Python Scripting
 
