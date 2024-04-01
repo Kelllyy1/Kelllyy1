@@ -1,4 +1,5 @@
-<h1>Hi, I'm Krystal! <br/><a href="https://github.com/Kelllyy1/Latest-Project">Latest Project</a></h1>
+<h1>Hi, I'm Krystal!</h1>
+<h2><br/><a href="https://github.com/Kelllyy1/Latest-Project">Latest Project</a></h2>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
@@ -9,7 +10,7 @@
 - <b>Automation</b> [APIs & Web-Scraping]
   - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
   - Python Scripting
-    - <a href="https://github.com/Kelllyy1/Stocks">Stock Price analysis using yfinance in Python</a></h1>
+    - <a href="https://github.com/Kelllyy1/Stock Analysis">Stock Price analysis using yfinance in Python</a></h1>
   - Bash Scripting
     - <a href="https://github.com/Kelllyy1/Latest Project">Scheduling A Job in Linux</a></h1>
 
