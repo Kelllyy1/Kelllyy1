@@ -9,12 +9,12 @@
 - <b>Automation</b> [APIs & Web-Scraping]
   - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
   - Python Scripting
-    - Stock Price analysis using yfinance in Python
+    - <a href="https://github.com/Kelllyy1/Stocks">Stock Price analysis using yfinance in Python</a></h1>
   - Bash Scripting
-    - <a href="https://github.com/Kelllyy1/Scheduling A Job in Linux">Latest Project</a></h1>
+    - <a href="https://github.com/Kelllyy1/Latest Project">Scheduling A Job in Linux</a></h1>
 
  - <b>Cyber</b> [Experimenting with VyOs]
-  - </b></i>I will be experimenting with VyOs in Linux.
+    - </i>I will be experimenting with VyOs in Linux (also using Ansible).
 
 <h2> :page_with_curl: Certifications:</h2>
 
@@ -30,10 +30,6 @@
   -->
 
 <h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 
 [linkedin]: https://linkedin.com/in/krystalkelly25
 
