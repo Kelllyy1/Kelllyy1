@@ -5,9 +5,12 @@
 - <b>Software Develoment</b> [Will be on Security Compliance]
   - I don't know yet how I will implement this project
     
-- <b>Automation</b> [Will be on Automation]
+- <b>Automation</b> [APIs & Web-Scraping]
   - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
   - Python Scripting
+
+ - <b>Cyber</b> [Experimenting with VyOs]
+  - </b></i>I will be experimenting with VyOs in Linux.
 
 <h2> :page_with_curl: Certifications:</h2>
 
