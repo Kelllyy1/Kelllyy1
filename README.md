@@ -13,7 +13,7 @@
   - Python Scripting
     - <a href="https://github.com/Kelllyy1/Stock-Analysis">Stock Price analysis using yfinance in Python</a></h1>
   - Bash Scripting
-    - <a href="https://github.com/Kelllyy1/Latest-Project">Scheduling A Job in Linux</a></h1>
+    - <a href="https://github.com/Kelllyy1/Linux-Job-Scheduling">Scheduling A Job in Linux</a></h1>
 
  - <b>Cyber</b> [Experimenting with VyOs]
     - </i>I will be experimenting with VyOs in Linux (also using Ansible).
