@@ -18,6 +18,14 @@
  - <b>Cyber</b> [Experimenting with VyOs]
     - </i>I will be experimenting with VyOs in Linux (also using Ansible).
 
+  - <b>Documentation</b> [Reading To-Do List]
+    - [] <a href="https://www.wireshark.org/docs/wsug_html_chunked/">WireShark</a>
+    - [] <a href="https://portswigger.net/burp/documentation/desktop">BurpSuite</a>
+    - [] <a href="https://docs.vyos.io/en/sagitta/">VyOS</a>
+      - [] <a href="https://blog.kroy.io/2020/05/04/vyos-from-scratch-edition-1/">Supplemental Material (Detailed Blog)</a>
+    - [] <a href="https://docs.vyos.io/en/sagitta/">Ansible</a>
+    - [] <a href="https://owasp.org/www-community/Vulnerability_Scanning_Tools">More Resources Once I'm Done</a>
+
 <h2> :page_with_curl: Certifications:</h2>
 
 - <b>GIAC</b>
