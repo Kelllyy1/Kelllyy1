@@ -43,7 +43,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://linkedin.com/in/krystalkelly25">
-  <img src="https://github.com/Kelllyy1/imgs/linkedIn-logo.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+  <img src="https://github.com/Kelllyy1/imgs/blob/main/linkedIn-logo.png" alt="LinkedIn" style="width: 40px; height: 40px;">
 </a>
 
 <!--
