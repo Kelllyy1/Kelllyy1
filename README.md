@@ -42,7 +42,9 @@
   -->
 
 <h2> 🤳 Connect with me:</h2>
-[![LinkedIn](https://github.com/Kelllyy1/imgs/linkedIn-logo.png)](https://linkedin.com/in/krystalkelly25)
+<a href="https://linkedin.com/in/krystalkelly25">
+  <img src="https://github.com/Kelllyy1/imgs/linkedIn-logo.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+</a>
 
 <!--
 
