@@ -1,5 +1,5 @@
 <h1>Hi, I'm Krystal!</h1>
-<p>I love to learn about all things tech with current interests in automation, scripting, and back-end development. I am learning about different frameworks, have started a few projects, collabed on a few projects, but I am always looking forward to learning and collabing on more. Feel free to connect on LinkedIn if you have similar interests or want to collab on a project!</p>
+<p>I love to learn about all things tech with current interests in automation, scripting, and back-end development. I have worked on a few personal projects and collaborations, and I am always looking forward to learning and collabing on more. Feel free to connect on LinkedIn if you have similar interests or want to collab on a project!</p>
 
 <h2><br/><a href="https://github.com/Kelllyy1/Stock-Analysis">Latest Project</a></h2>
 <h2>👨‍💻 Personal Projects:</h2>
@@ -42,10 +42,7 @@
   -->
 
 <h2> 🤳 Connect with me:</h2>
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://linkedin.com/in/krystalkelly25"
+[![LinkedIn](https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png)](https://linkedin.com/in/krystalkelly25")
 
 <!--
 
