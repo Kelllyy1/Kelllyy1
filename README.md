@@ -30,7 +30,7 @@
 
 <h2> :page_with_curl: Certifications:</h2>
 
-- <b>GIAC</b>
+- <b>GIAC Foundational Cybersecurity Technologies (GFACT)</b>
 
  <!--
 <h2>👨‍💻 Cybersecurity Projects:</h2>
