@@ -23,9 +23,9 @@
 <!-- This is a horizontal line below !-->
 -----
 <h2>Project Goals:</h2>
--<b>Goal Tool:</b> Raspberry Pi
-- <b>Goal Start:</b> August 19th
-- <b>Goal End:</b> August 31st
+-  <p><b>Goal Tool:</b> Raspberry Pi</p>
+-  <p><b>Goal Start:</b> August 19th</p>
+-  <p><b>Goal End:</b> August 31st</p>
 <!--
   - <b>Documentation</b> [Reading To-Do List]
     - [ ] <a href="https://www.wireshark.org/docs/wsug_html_chunked/">WireShark</a>
