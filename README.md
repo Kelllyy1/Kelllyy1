@@ -4,22 +4,23 @@
 <!-- <h2><br/><a href="https://github.com/Kelllyy1/Stock-Analysis">Latest Project</a></h2> -->
 <h2>👨‍💻 Personal Projects:</h2>
 
-<!--
-- <b>Software Develoment</b> [Will be on Security Compliance]
-  - I don't know yet how I will implement this project
-  - May be a research project/blog
-  -->
+- <b>Software Develoment</b>
+  - <a href="https://github.com/Kelllyy1/fall-2024-internship-course">Backend</a>
+  <!-- - <a href="https://github.com/Kelllyy1/fall-2024-internship-course">E-portfolio coming soon</a> -->
+  <!-- - <a href="https://github.com/Kelllyy1/fall-2024-internship-course">FullStack: Database Systems Project</a> -->
+  <!-- - May be a research project/blog -->
     
 - <b>Automation</b> [APIs & Web-Scraping]
-  - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools.
-  - Python Scripting
-    - <a href="https://github.com/Kelllyy1/Stock-Analysis">Stock Price analysis using yfinance in Python</a></h1>
-  - Bash Scripting
-    - <a href="https://github.com/Kelllyy1/Linux-Job-Scheduling">Scheduling A Job in Linux</a></h1>
+  <!-- - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools. -->
+  - Python Scripting: <a href="https://github.com/Kelllyy1/Stock-Analysis">Stock Price analysis using yfinance in Python</a></h1>
+  - Bash Scripting: <a href="https://github.com/Kelllyy1/Linux-Job-Scheduling">Scheduling A Job in Linux</a></h1>
 
- - <b>Cyber</b> [Experimenting with VyOs]
+ - <b>Cyber</b>
    - <a href="https://github.com/Kelllyy1/Stock-Analysis">CodePath CYB102 Notes & Projects</a>
    <!--  </i>I will be experimenting with VyOs in Linux (also using Ansible). -->
+
+ - <b>Networking</b>
+   - <a href="https://github.com/Kelllyy1/compTIA-net-notes">Comptia Network+ Review Notes</a>
 
 <!-- This is a horizontal line below !-->
 -----
