@@ -1,7 +1,7 @@
-<h1>Hi, I'm Krystal!</h1>
+<h1>Welcome</h1>
 <p>I love to learn about all things tech with current interests in automation, scripting, and back-end development. I have worked on a few personal projects and collaborations, and I am always looking forward to learning and collabing on more. Feel free to connect on LinkedIn if you have similar interests or want to collab on a project!</p>
 
-<h2><br/><a href="https://github.com/Kelllyy1/Stock-Analysis">Latest Project</a></h2>
+<!-- <h2><br/><a href="https://github.com/Kelllyy1/Stock-Analysis">Latest Project</a></h2> -->
 <h2>👨‍💻 Personal Projects:</h2>
 
 <!--
@@ -18,7 +18,8 @@
     - <a href="https://github.com/Kelllyy1/Linux-Job-Scheduling">Scheduling A Job in Linux</a></h1>
 
  - <b>Cyber</b> [Experimenting with VyOs]
-    - </i>I will be experimenting with VyOs in Linux (also using Ansible).
+   - <a href="https://github.com/Kelllyy1/Stock-Analysis">CodePath CYB102 Notes & Projects</a>
+   <!--  </i>I will be experimenting with VyOs in Linux (also using Ansible). -->
 
 <!-- This is a horizontal line below !-->
 -----
@@ -69,3 +70,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
