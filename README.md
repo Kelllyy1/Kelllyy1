@@ -60,6 +60,9 @@
 
 <!--
 
+<!-- Add my Tech stack here, and state in my README.md file that I generated it using my Python script, and link the Python script -->
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
