@@ -2,6 +2,14 @@
 <p>I love to learn about all things tech with current interests in automation, scripting, and back-end development. I have worked on a few personal projects and collaborations, and I am always looking forward to learning and collabing on more. Feel free to connect on LinkedIn if you have similar interests or want to collab on a project!</p>
 
 <!-- <h2><br/><a href="https://github.com/Kelllyy1/Stock-Analysis">Latest Project</a></h2> -->
+
+##  Top Languages from My GitHub
+
+![Go](https://img.shields.io/badge/Go-informational?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-informational?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+
+I generated this using my <a href="https://github.com/Kelllyy1/Scripting/tree/main/pythonScripts">Python API Scraping Script</a>
+
 <h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Software Develoment</b>
@@ -12,7 +20,7 @@
     
 - <b>Automation</b> [APIs & Web-Scraping]
   <!-- - </b></i>I will experiment with tools like Ansible and Puppeteer, and find more automation tools. -->
-  - Python Scripting: <a href="https://github.com/Kelllyy1/Stock-Analysis">Stock Price analysis using yfinance in Python</a></h1>
+  - Python Scripting: <a href="https://github.com/Kelllyy1/Stock-Analysis">Python Scripts</a></h1>
   - Bash Scripting: <a href="https://github.com/Kelllyy1/Scripting">Scripting Projects</a></h1>
 
  - <b>Cyber</b>
