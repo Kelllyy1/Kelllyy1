@@ -1,4 +1,5 @@
-## 👋 About Me  
+<!-- ## 👋 About Me  -->
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&vCenter=true&multiline=true&width=435&lines=About+Me+.+.+.)](https://git.io/typing-svg)
 I’m passionate about all things tech, with a strong interest in automation, scripting, and back-end development. I've built personal projects and love collaborating with others.  
 If you share similar interests or want to team up, feel free to connect with me on [LinkedIn](https://linkedin.com/in/krystalkelly25)!
 
@@ -24,7 +25,7 @@ If you share similar interests or want to team up, feel free to connect with me 
 ### 💻 Software Development
 - [Backend](https://github.com/Kelllyy1/fall-2024-internship-course)
 - [Full-Stack](https://github.com/Kelllyy1/database-systems-fullstack-project)
-<br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ui-monospace&size=16&pause=1000&color=071921&vCenter=true&width=435&lines=Data+Visualization%2FCloud+Eng.+(Coming+Soon...))](https://git.io/typing-svg)
+<!-- <br>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ui-monospace&size=16&pause=1000&color=071921&vCenter=true&width=435&lines=Data+Visualization%2FCloud+Eng.+(Coming+Soon...))](https://git.io/typing-svg) -->
 
 ### ⚙ Automation (APIs, Scraping, Scripting)
 - Python Scripting: [Python Scripts](https://github.com/Kelllyy1/Stock-Analysis)
