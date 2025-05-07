@@ -25,7 +25,7 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 - [Backend](https://github.com/Kelllyy1/fall-2024-internship-course)
 - [Full-Stack](https://github.com/Kelllyy1/database-systems-fullstack-project)
 - [Data Visualization](https://github.com/Kelllyy1/SD2_G38/tree/main/cloud/visualizations)
-- [Passion Project using Raspberry Pi](#)
+- Passion Project using Raspberry Pi
 <!-- - [Passion Project using Raspberry Pi](https://github.com/Kelllyy1/passion) -->
 
 ### ⚙ Automation (APIs, Scraping, Scripting)
