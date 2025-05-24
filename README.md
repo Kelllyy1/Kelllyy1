@@ -36,7 +36,7 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 - [CodePath CYB102 Notes & Projects](https://github.com/Kelllyy1/Stock-Analysis)
 
 ###  Networking
-- [CompTIA Network+ Review Notes](https://github.com/Kelllyy1/compTIA-net-notes)
+- [Networking Corner](https://github.com/Kelllyy1/networking)
 
 ---
 
