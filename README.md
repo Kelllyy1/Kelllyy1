@@ -1,6 +1,6 @@
 <!-- ## 👋 About Me  -->
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&vCenter=true&multiline=true&width=435&lines=About+Me+.+.+.)](https://git.io/typing-svg)
-I’m passionate about all things tech, with a strong interest in automation, scripting, and back-end development. I've built personal projects and love collaborating with others. If you share similar interests or want to team up, feel free to connect with me on [LinkedIn](https://linkedin.com/in/krystalkelly25)!
+I’m passionate about all things tech, with a strong interest in automation, scripting, and network engineering. I've built a few personal tech projects and love collaborating with others. If you share similar interests or want to team up, feel free to connect with me on [LinkedIn](https://linkedin.com/in/krystalkelly25)!
 
 ---
 
@@ -21,6 +21,9 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 
 ##  Personal Projects
 
+###  Networking
+- [Networking Corner](https://github.com/Kelllyy1/networking)
+
 ### 💻 Software Development
 - [Backend](https://github.com/Kelllyy1/fall-2024-internship-course)
 - [Full-Stack](https://github.com/Kelllyy1/database-systems-fullstack-project)
@@ -34,9 +37,6 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 
 ###  Cybersecurity
 - [CodePath CYB102 Notes & Projects](https://github.com/Kelllyy1/Stock-Analysis)
-
-###  Networking
-- [Networking Corner](https://github.com/Kelllyy1/networking)
 
 ---
 
