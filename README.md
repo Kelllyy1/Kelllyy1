@@ -33,7 +33,7 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 
 ### ⚙ Automation (APIs, Scraping, Scripting)
 - My Scripts: [Scripting Projects](https://github.com/Kelllyy1/Scripting)
-- Other: [Other Scripts](https://github.com/Kelllyy1/Stock-Analysis)
+- Random Scripts: [Other Scripts](https://github.com/Kelllyy1/Stock-Analysis)
 
 ###  Cybersecurity
 - [CodePath CYB102 Notes & Projects](https://github.com/Kelllyy1/Stock-Analysis)
