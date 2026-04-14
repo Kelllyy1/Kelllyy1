@@ -38,6 +38,8 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 ###  Cybersecurity
 - [CodePath CYB102 Notes & Projects](https://github.com/Kelllyy1/Stock-Analysis)
 
+### Other [for now]
+- TODO: Update later
 ---
 
 ## 🤝 Connect with Me
