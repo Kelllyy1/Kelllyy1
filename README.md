@@ -40,7 +40,7 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 - [CodePath projects](https://github.com/Kelllyy1/codepath_projects)
 
 ### Other [for now]
-- TODO: Update later
+- degree recap: [Let's pretend this is a cool repo name](https://github.com/Kelllyy1/recap)
 ---
 
 ## 🤝 Connect with Me
