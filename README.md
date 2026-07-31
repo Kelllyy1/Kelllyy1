@@ -36,7 +36,8 @@ I’m passionate about all things tech, with a strong interest in automation, sc
 - Random Scripts: [Other Scripts](https://github.com/Kelllyy1/Other-Random-Scripts)
 
 ###  Cybersecurity
-- [CodePath CYB102 Notes & Projects](https://github.com/Kelllyy1/Stock-Analysis)
+- ~CodePath CYB102 Notes & Projects~
+<!--- [CodePath CYB102 Notes & Projects](https://github.com/Kelllyy1/Stock-Analysis) -->
 - [CodePath projects](https://github.com/Kelllyy1/codepath_projects)
 
 ### Other [for now]
